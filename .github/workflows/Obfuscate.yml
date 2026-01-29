@@ -55,5 +55,6 @@ jobs:
           commit_message: ':arrow_up: update latest bpb panel'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
           push_options: '--set-upstream'
+          
           permissions:
-  contents: write  # 必须有写权限才能提交更改
+          contents: write  # 必须有写权限才能提交更改
